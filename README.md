@@ -14,6 +14,9 @@
   <li>Data Analysis</li>
   <li>Machine Learning (Basics)</li>
   <li>Digital Literacy</li>
+  <li>Mutlilingual(English, Hindi, Bengali, Korean)</li>
+  
+  
 </ul>
 
 <h2>📌 Projects</h2>
@@ -26,4 +29,3 @@
 <p>
 To improve my coding skills, contribute to open-source, and build impactful real-world projects.
 </p>
--->
