@@ -2,7 +2,7 @@
 <h1>Hi, I'm Aditi 👋</h1>
 
 <p>
-🎓 First Year B.Tech Student at VIT Bhopal University <br>
+🎓 Second Year B.Tech Student at VIT Bhopal University <br>
 💻 Interested in AI, Machine Learning & Data Science <br>
 🚀 Currently learning and building beginner-friendly projects <br>
 📚 Passionate about technology and continuous learning
